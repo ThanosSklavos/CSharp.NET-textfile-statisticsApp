@@ -1,0 +1,15 @@
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\bin\Debug\net6.0\FileManagementApp.exe
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\bin\Debug\net6.0\FileManagementApp.deps.json
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\bin\Debug\net6.0\FileManagementApp.runtimeconfig.json
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\bin\Debug\net6.0\FileManagementApp.dll
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\bin\Debug\net6.0\FileManagementApp.pdb
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.csproj.AssemblyReference.cache
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.AssemblyInfoInputs.cache
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.AssemblyInfo.cs
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.dll
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\refint\FileManagementApp.dll
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.pdb
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\FileManagementApp.genruntimeconfig.cache
+C:\Users\user\workspace\C#\CodingFactory3\FileManagementApp\obj\Debug\net6.0\ref\FileManagementApp.dll
